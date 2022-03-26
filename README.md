@@ -6,7 +6,7 @@ A very basic calculator application created with Java **Swing**.
 ## Thank You!
 Please ⭐️ this repo and share it with others
 
-### Screenshots
+### Screen
 Scientific / Dark |  Standard / Colored
 :------------------:|:-------------------
 ![Calculator - screenshot](screenshots/dark.PNG) | ![Calculator - screenshot](screenshots/colored.PNG)
